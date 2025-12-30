@@ -1,2 +1,2 @@
 # rag_basic_ex
-rag공부
+rag 평가 과제물
